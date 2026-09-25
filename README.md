@@ -221,11 +221,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 Event Sponsors & Partners
-
-[Sponsor logos and information would go here]
-
----
 
 <div align="center">
 
